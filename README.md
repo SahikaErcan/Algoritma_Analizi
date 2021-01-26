@@ -1,2 +1,2 @@
 # Algoritma_Analizi
-##Binary Search
+## Binary Search
